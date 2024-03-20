@@ -1,0 +1,21 @@
+1. feladat
+Olvasd be az info.txt fájl tartalmát
+2. feladat
+Ki: A szöveg ? szóból áll.
+3. feladat
+Ki: A szöveg visszafelé: ?
+4. feladat
+Olvasd listába az egyes szavakat 
+szöveg.split()
+Ki: Írasd ki a listát
+5. feladat
+Ki: A leghosszabb szó a ? (?karakterből áll)
+
++1. feladat
+Ki: 
+A teljes szövegre:
+Magánhangzók száma: ?
+Mássalhangzók száma: ?
+Az egyes szavakra:
+1. szó: mh: 3db; mássalh: 4db
+2. szó: ...
